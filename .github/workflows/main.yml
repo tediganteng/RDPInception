@@ -34,7 +34,7 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-name: MarcelCyan
+name: Main.yml
 
 on: workflow_dispatch
 
